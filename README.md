@@ -1,7 +1,7 @@
 # 🤖 Assistente Virtual para Clínica Odontológica
 
 ## 📄 Descrição do Projeto
-Este projeto é um assistente virtual inteligente, criado na plataforma GPT-Maker, projetado para otimizar o atendimento de uma clínica odontológica. O agente atua como um recepcionista digital, capaz de interagir com pacientes para fornecer informações e gerenciar agendamentos.
+Este projeto é um assistente virtual inteligente, criado na plataforma GPT MAKER, projetado para otimizar o atendimento de uma clínica odontológica. O agente atua como um recepcionista digital, capaz de interagir com pacientes para fornecer informações e gerenciar agendamentos.
 
 ---
 
@@ -14,8 +14,8 @@ Este projeto é um assistente virtual inteligente, criado na plataforma GPT-Make
 ---
 
 ## 🛠️ Tecnologia Utilizada
-- **Plataforma:** GPT Maker
-- **Modelo Base:** GPT 5.Mini
+- **Plataforma:** GPT MAKER
+- **Modelo Base:** GPT-5
 - **Princípios de Engenharia de Prompt:** As instruções do agente foram cuidadosamente elaboradas para garantir um comportamento profissional, preciso e empático, simulando um atendimento humanizado. **Para detalhes técnicos da configuração, consulte o arquivo `instrucoes.txt` neste repositório.**
 
 ---
