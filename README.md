@@ -14,8 +14,8 @@ Este projeto é um assistente virtual inteligente, criado na plataforma GPT-Make
 ---
 
 ## 🛠️ Tecnologia Utilizada
-- **Plataforma:** GPT-Maker
-- **Modelo Base:** GPT-5.Mini
+- **Plataforma:** GPT Maker
+- **Modelo Base:** GPT 5.Mini
 - **Princípios de Engenharia de Prompt:** As instruções do agente foram cuidadosamente elaboradas para garantir um comportamento profissional, preciso e empático, simulando um atendimento humanizado. **Para detalhes técnicos da configuração, consulte o arquivo `instrucoes.txt` neste repositório.**
 
 ---
